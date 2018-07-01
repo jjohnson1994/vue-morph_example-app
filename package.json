@@ -28,6 +28,7 @@
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.1",
     "ts-jest": "^22.4.6",
+    "vue-morph": "../vue-morph",
     "vue-template-compiler": "^2.5.16"
   },
   "browserslist": [
